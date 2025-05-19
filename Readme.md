@@ -9,5 +9,6 @@ Ce projet est un exercice réalisé dans le cadre de ma formation à la [Wild Co
 - Comprendre les bases d’un pipeline CI simple
 
 
+## Lancer l'appli
 
 Launch the app with the following command: `docker-compose -f docker-compose.dev.yml up --build`
